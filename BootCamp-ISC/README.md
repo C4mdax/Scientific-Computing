@@ -1,6 +1,6 @@
-# BootCamp - Introduction to Scientific Computation
+# BootCamp - Introduction to Scientific Computing
 ## Thopics
-- Introduction to Scientific Computation (basics)
+- Introduction to Scientific Computing (basics)
 - Julia language for Scientific Computing
 - Object-Oriented Programming with C++ 
 - Parallel Programming with CUDA-C
