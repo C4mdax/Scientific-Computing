@@ -1,5 +1,5 @@
 # BootCamp - Introduction to Scientific Computing
-## Thopics
+## Topics
 - Introduction to Scientific Computing (basics)
 - Julia language for Scientific Computing
 - Object-Oriented Programming with C++ 
